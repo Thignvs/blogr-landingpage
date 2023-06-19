@@ -455,9 +455,6 @@ footer{
         transition: .3s;
         display: block;
     }
-    #subMenu1.active #arrowdownlight{
-        transform: rotate(180deg);
-    }
     .arrowdown{
         display: none;
     }
